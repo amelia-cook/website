@@ -1,4 +1,13 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
 .main {
     margin: 30px auto 0px auto;
     width: 90%;
+}
+
+.main h1 {
+    text-align: center;
+    font-size: 30;
 }
