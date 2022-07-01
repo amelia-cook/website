@@ -1,13 +1,38 @@
 body {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: serif;
+    /* background-color: rgb(222, 232, 243); */
 }
 
 .main {
-    margin: 30px auto 0px auto;
+    margin: 30px auto auto 45px;
     width: 90%;
 }
 
 .main h1 {
-    text-align: center;
+    /* text-align: center; */
     font-size: 30;
+    font-family: 'Roboto Mono', monospace;
+    /* color: rgb(17, 27, 27); */
 }
+
+div.navbar {
+    display: inline-block;
+    /* padding: 10px; */
+    /* background-color: rgb(144, 162, 179); */
+}
+
+/* @media (prefers-color-scheme: dark) {
+    body {
+        background: rgb(60, 83, 83);
+        color: rgb(222, 232, 243);
+    }
+    
+    .main h1 {
+        color: rgb(222, 232, 243);
+    }
+    
+    div.navbar {
+        background-color: rgb(17, 27, 27);
+        color: rgb(222, 232, 243);
+    }
+} */
