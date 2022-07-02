@@ -21,6 +21,11 @@ div.navbar {
     /* background-color: rgb(144, 162, 179); */
 }
 
+a:visited, a:link {
+    color: black;
+    text-decoration-line: none;
+}
+
 /* @media (prefers-color-scheme: dark) {
     body {
         background: rgb(60, 83, 83);
