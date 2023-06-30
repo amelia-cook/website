@@ -1,0 +1,48 @@
+body { background-color: #CBDDD0; }
+
+p { color: #262626;
+    font-family:"Trebuchet MS", sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 33pt;
+    margin:0pt;
+}
+
+.main {
+    padding-top: 40px;
+    text-align: center;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 0 15px;
+    text-align: center;
+    display: inline-block;
+}
+
+td {
+    width: 200px;
+    text-align: center;
+    padding: 50px;
+}
+
+input {
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 1px 3px;
+    border-color: black;
+}
+
+.result {
+    padding-top: 20px;
+    text-align: center;
+    color: #262626;
+    font-family:"Trebuchet MS", sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 33pt;
+    margin:0pt;
+}
