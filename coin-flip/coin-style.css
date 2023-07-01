@@ -21,18 +21,15 @@ table {
     display: inline-block;
 }
 
-td {
-    width: 200px;
-    text-align: center;
-    padding: 50px;
-}
-
 input {
     text-align: center;
     padding: 10px;
     border-radius: 10px;
-    box-shadow: 1px 3px;
+    box-shadow: 3px 5px;
     border-color: black;
+    width: 50%;
+    height: 50px;
+    font-size: 20px;
 }
 
 .result {
